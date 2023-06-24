@@ -6,6 +6,9 @@ Create a website with multiple pages using HTML and CSS that matches the provide
 
 ## Requirements / Steps
 
+Step 1 - Fork _this_ repository
+Step 2 - Clone your fork
+
 This website should fit the following criteria:
 
 - [ ] Use semantic HTML tags
