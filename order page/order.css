@@ -1,0 +1,94 @@
+header {
+    display: flex;
+    height: 64px;
+    background-color: grey;
+    justify-content: space-between;
+}
+
+.nav-bar{
+    display: flex;
+    justify-content: space-evenly;
+    width: 15vw;
+}
+
+a{
+    display: flex;
+    background-color: rgb(42, 70, 70);
+    color: white;
+    width: 80px;
+    justify-content: center;
+    padding-top:20px
+}
+
+.img-title{
+    display: flex;
+
+}
+
+.title-pg{
+    font-size: large;
+    padding-top: 20px;
+    padding-left: 10px;
+    color: rgb(216, 184, 142);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+
+
+form {
+    display: flex;
+    width: 20%;
+    margin-top: 10px;
+    flex-direction: column;
+
+}
+
+.title-two{
+    display: flex;
+    margin-top: 20px;
+    
+}
+
+.notes-mark{
+    display: flex;
+    flex-direction: column;
+}
+
+
+.ops{
+    margin-bottom: 20px;
+    font-size: large;
+}
+
+.contact-info{
+    margin-top: 10vh;
+    display: flex;
+    height: 17vh;
+    background-color: rgb(250,214,73);
+    flex-direction: column;
+    justify-content: center;
+}
+
+.contact-us{
+    height: 30px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    justify-content: center;
+    text-align: center;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+.contact-us-text{
+
+    display: flex;
+    height: 15vh;
+    flex-direction: column;
+    width: 50%;
+    margin-left: 50vh;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: large;
+}
+
